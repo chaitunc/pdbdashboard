@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  serviceURL: 'http://knallani-1:8080/'
+  serviceURL: 'https://grim-coffin-41549.herokuapp.com/'
 };
